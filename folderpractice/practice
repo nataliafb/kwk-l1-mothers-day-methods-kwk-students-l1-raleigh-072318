@@ -1,0 +1,9 @@
+if temps <110
+puts "lets go to the lake"
+elseif temp <90
+puts "lets go hiking!"
+else
+puts "netflix"
+elseif temp is 100
+puts "lets do nothing"
+end
